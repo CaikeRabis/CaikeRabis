@@ -1,9 +1,9 @@
 ### Olá! Eu o Caike, e esse é meu repositório no GitHub.👽✍
 
  💻Apaixonado por Tecnologia.<br>
- 🎓Systems Analysis and Development Student<br>
  📚Atualmente estudando Front-End; <br>
  📂Projetos em CSS3 e HTML5.<br> <br>
+ 🎓Systems Analysis and Development Student<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaikeRabis&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
