@@ -2,7 +2,7 @@
 
  💻Apaixonado por Tecnologia.<br>
  📚Atualmente estudando Front-End; <br>
- 📂Projetos em CSS3 e HTML5.<br> <br>
+ 📂Projetos em CSS3 e HTML5.<br>
  🎓Systems Analysis and Development Student<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaikeRabis&show_icons=true&theme=tokyonight)
 
