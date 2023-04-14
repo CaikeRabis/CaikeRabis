@@ -1,4 +1,4 @@
-### Olá! Eu o Caike, e esse é meu repositório no GitHub.👽✍
+### OOOOOPA! Meu none é Caike, e esse é meu repositório no GitHub.😛✍
 
  💻Apaixonado por Tecnologia.<br>
  📚Atualmente estudando Front-End; <br>
