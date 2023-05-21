@@ -1,8 +1,8 @@
 ### Olá! Sou o Caike e este é meu repositório.📚💻
 
  💻Apaixonado por Tecnologia.<br>
- 📚Atualmente estudando Front-End; <br>
- 📂HTML5, CSS3 e BOOTSTRAP5.<br>
+ ☕Estudante de Java; <br>
+ 📂Projetos em: Html5, Css3 e Bootstrap5, MySql e Java.<br>
  🎓Systems Analysis and Development Student<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaikeRabis&show_icons=true&theme=tokyonight)
 
